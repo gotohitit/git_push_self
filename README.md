@@ -1,4 +1,4 @@
-# 项目PUSH到github上
+# 项目PUSH到github上(自己学习使用)
 
 ### 创建 GitHub 仓库
 
@@ -33,6 +33,10 @@ git init
 ​		4.选择不想上传的文件夹
 
 ​				在你的项目根目录下创建一个 `.gitignore` 文件（如果已经存在，则直接编辑）
+
+```
+touch .gitignore
+```
 
 ​		5.在 `.gitignore` 中添加要忽略的文件夹
 
